@@ -1,2 +1,1 @@
-# Kaggle-Competitions
-🎖 All the Notebooks of the Kaggle's Competitions I participed.
+* [Titanic - Learning from Disaster](https://github.com/EricaFer/Titanic---Machine-Learning-from-Disaster)
